@@ -1,5 +1,11 @@
 # SimplQ
+You’re now entering a forked repository. At some point, I must have helped out or maybe I fixed part of its source code or contributed in other ways. The repository is now archived, read at your own risk.
 
+<details>
+  <summary>Find below the original README.md</summary>
+  
+# SimplQ
+  
 ![Build and Deploy](https://img.shields.io/github/issues/SimplQ/simplQ-frontend)
 ![Build and Deploy](https://img.shields.io/github/license/SimplQ/simplQ-frontend)
 ![Gitter](https://img.shields.io/gitter/room/SimplQ/community)
@@ -47,3 +53,4 @@ Implementation Roadmap: https://github.com/SimplQ/simplQ-frontend/issues/207
 # Deploy
 
 Changes to master are automatically deployed to  [dev.simplq.me/](https://dev.simplq.me/). Periodically, we inspect dev and promote it to [simplq.me](https://simplq.me).
+</details>
